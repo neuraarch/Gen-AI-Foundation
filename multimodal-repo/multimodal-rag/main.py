@@ -47,5 +47,5 @@ if __name__ == "__main__":
         ingest_pipeline(path)
 
     # ✅ Query with image
-    query_with_image("query/cartoon.jpg")
+    query_with_image("query/car-warning1.png")
 
